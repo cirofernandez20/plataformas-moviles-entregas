@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'MedievalSharp', cursive;
-  background: linear-gradient(to bottom, #3CBC3C, #A05A2C);
+  background: linear-gradient(to bottom, #3CBC3C 0%, #6fa53f 30%, #A05A2C 70%, #5b3a1e 100%);
   background-repeat: no-repeat;
   background-size: 100% 100%;
   background-attachment: fixed;
