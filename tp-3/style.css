@@ -1,0 +1,15 @@
+h1.titulo{
+    text-align: center;
+}
+p.parrafo{
+    font-family: serif;
+}
+p#primer-parrafo.parrafo{
+    background-color: #cee;
+}
+p#primer-parrafo.parrafo em{
+    color: #933;
+}
+#contenedor.parrafo a{
+    outline: 1px solid #333;
+}
