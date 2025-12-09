@@ -1,15 +1,26 @@
-h1.titulo{
+.titulo{
     text-align: center;
 }
-p.parrafo{
+
+.parrafo{
     font-family: serif;
 }
-p#primer-parrafo.parrafo{
-    background-color: #cee;
+
+p#primer-parrafo{
+    color: #cee;
 }
-p#primer-parrafo.parrafo em{
+
+#primer-parrafo em{
     color: #933;
 }
-#contenedor.parrafo a{
+
+a{
     outline: 1px solid #333;
 }
+
+p.fuente{
+    opacity: 100%;
+}
+
+
+
